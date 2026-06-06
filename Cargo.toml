@@ -5,3 +5,5 @@ edition = "2024"
 
 [dependencies]
 rand = "0.10.1"
+repository = "https://github.com/SuperInstance/ternary-fault-tree"
+documentation = "https://docs.rs/ternary-fault-tree"
