@@ -2,9 +2,10 @@
 description = "ternary-fault-tree - SuperInstance ecosystem crate"
 name = "ternary-fault-tree"
 version = "0.1.0"
-edition = "2024"
+license = "MIT OR Apache-2.0"
+edition = "2021"
+repository = "https://github.com/SuperInstance/ternary-fault-tree"
+documentation = "https://docs.rs/ternary-fault-tree"
 
 [dependencies]
 rand = "0.10.1"
-repository = "https://github.com/SuperInstance/ternary-fault-tree"
-documentation = "https://docs.rs/ternary-fault-tree"
